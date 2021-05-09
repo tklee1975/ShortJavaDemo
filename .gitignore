@@ -1,0 +1,23 @@
+#o Ignore thumbnails created by windows
+Thumbs.db
+
+# the class file that no need to commit
+WEB-INF/classes/
+temp/*
+deploy/*
+store/*
+*/bin/
+*/.idea/*
+*/temp/*
+
+
+# Ignore python compiled files
+*.pyc
+
+# Ignore vim swaps
+*.swp
+*.swo
+
+# CTags
+tags
+

@@ -7,7 +7,6 @@ temp/*
 deploy/*
 store/*
 */bin/
-*/.idea/*
 */temp/*
 
 
